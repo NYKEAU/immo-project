@@ -3,6 +3,8 @@
         <h1>Mentions Légales</h1>
         <p>Insert your legal content here.</p>
     </div>
+
+    <footer />
 </template>
 
 <script>

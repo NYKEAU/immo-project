@@ -2,7 +2,11 @@
     <div>
         <h1>Page Annonce Archive</h1>
     </div>
+
+    <footer />
 </template>
+
+
 
 <script>
 export default {
