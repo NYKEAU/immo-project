@@ -12,5 +12,12 @@ export default {
 </script>
 
 <style scoped>
-/* Add your custom styles here */
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+}
 </style>
