@@ -3,6 +3,7 @@
     <h1>Annonces immobilières</h1>
     <p>Trouver votre futur chez vous dès aujourd'hui!</p>
   </div>
+  <NuxtPage />
 </template>
 
 <script>
