@@ -1,11 +1,12 @@
 <template>
     <div>
-        <h1>Mentions Légales</h1>
-        <p>Insert your legal content here.</p>
+        <h1>Page Annonce Archive</h1>
     </div>
 
     <footer />
 </template>
+
+
 
 <script>
 export default {
