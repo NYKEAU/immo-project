@@ -1,9 +1,11 @@
 <template>
   <div class="home">
-    <h1>Annonces immobilières</h1>
-    <p>Trouver votre futur chez vous dès aujourd'hui!</p>
+    <NuxtLayout>
+      <NuxtPage />
+      <h1>Annonces immobilières</h1>
+      <p>Trouver votre futur chez vous dès aujourd'hui!</p>
+    </NuxtLayout>
   </div>
-  <NuxtPage />
 </template>
 
 <script>
