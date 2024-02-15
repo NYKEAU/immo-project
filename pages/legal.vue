@@ -3,6 +3,7 @@
     <div>
         <h1>Mentions Légales</h1>
         <p>Insert your legal content here.</p>
+        <p>New content legals</p>
         <form @submit.prevent="submitForm">
             <input type="text" name="name" v-model="name" placeholder="Name" />
             <input type="email" name="email" v-model="email" placeholder="Email" />
